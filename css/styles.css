@@ -11,3 +11,7 @@ body {
   color: purple;
   font-weight: bold;
 }
+
+.amazing {
+  text-shadow: 2px 2px 2px #FF0000;
+}
