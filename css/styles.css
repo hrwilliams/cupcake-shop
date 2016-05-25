@@ -1,0 +1,13 @@
+body {
+  background-image: url("http://www.mrwallpaper.com/wallpapers/cream-roses-cupcakes.jpg")
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  color: purple;
+  font-weight: bold;
+}
